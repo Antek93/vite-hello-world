@@ -4,7 +4,7 @@ import AppHero from './components/AppHero.vue'
 </script>
 
 <template>
-    <div class="titleBox">
+    <div>
       <AppTitle />
     </div>
     <div>
