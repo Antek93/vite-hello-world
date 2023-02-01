@@ -2,7 +2,9 @@
 </script>
 
 <template>
-    <div class="photo"></div>
+    <div>
+        <div class="photo"></div>
+    </div>
 </template>
 
 <style scoped>
@@ -14,5 +16,7 @@
   transform: translate(-50%,-50%);
   bottom: 0%;
   left:50%;
+  border-radius: 30px;
 }
+
 </style>
