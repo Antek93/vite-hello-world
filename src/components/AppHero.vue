@@ -1,4 +1,15 @@
-<script setup>
+<script>
+
+export default {
+    name: 'AppHero',
+    data () {
+        return {
+            msg: 'Ciao',
+            count: 0,
+        }
+
+    }
+};
 </script>
 
 <template>
